@@ -1,2 +1,7 @@
-# low-level-design-java
-This repository contains low-level design solutions for common real-world systems implemented in Java. The focus is on clean object-oriented design, SOLID principles, extensible architectures, and the practical application of design patterns commonly used in backend engineering.
+## Overview
+This repository is intended to demonstrate my understanding of low-level system design using Java.  
+Each problem is designed with a focus on:
+- Object-Oriented Design
+- SOLID principles
+- Clean code and extensibility
+- Real-world backend use cases
